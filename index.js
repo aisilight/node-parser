@@ -1,4 +1,4 @@
-// подключение модулей
+// подключение модулей request, cheerio, fs
 const request = require('request')
 const cheerio = require('cheerio')
 const fs = require('fs')
